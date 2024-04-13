@@ -1,0 +1,3 @@
+[submodule "sample1"]
+	path = sample1
+	url = https://github.com/M-yoshimura-ML/sample1.git
