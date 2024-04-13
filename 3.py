@@ -14,6 +14,6 @@ print("myTechnique : " + str(myTechnique))
 print("myDefense : " + str(myDefense))
 print("END")
 print(False)
-
+#gogog
 
 
