@@ -1,1 +1,2 @@
 print("forth")
+print("zero")
